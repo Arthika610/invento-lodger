@@ -1,0 +1,24 @@
+{
+  "name": "inventoledger",
+  "version": "1.0.0",
+  "description": "Multi-Branch Retail Inventory System with ACID Transactions and Mutex Concurrency",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "inventory",
+    "multi-branch",
+    "acid",
+    "mutex",
+    "concurrency",
+    "etl",
+    "machine-learning"
+  ],
+  "author": "24091A3215, 24091A3222",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
